@@ -24,6 +24,13 @@ A modular and extensible Python-based reconnaissance agent designed for Red Team
 
 - `subfinder`, `bbot`, `waymore`, `gau`, `waybackurls`, `nmap`, `smap`, `katana`, `blc`, `linkfinder`, `shosubgo`, `skanuvaty`, `scilla`, `csprecongo`
 
+## Example Usage
+
+<img width="1980" height="1069" alt="Screenshot_1" src="https://github.com/user-attachments/assets/d18fd5f3-1596-476b-ae38-d71c0055be25" />
+
+<img width="1976" height="1033" alt="Screenshot_2" src="https://github.com/user-attachments/assets/1c0a8006-5459-4edc-bd75-f4840ab9c91d" />
+
+
 ## ⚠️ Note on Output Limitation
 
 Some tools may not display the full results directly in the console or return data due to the large size of the output. This is intentionally designed to prevent excessive memory or token usage when integrating with LLMs or automated agents.
